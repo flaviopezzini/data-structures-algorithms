@@ -28,3 +28,15 @@ if the input array is [2, 6, 64] then the answer is 0</p>
 
 <b>TwoElementsInArraySumEqualsToX</b><br/>
 <p>given an array A[] of n numbers and another number x, determines whether or not there exist two elements in S whose sum is exactly x.</p>
+
+<b>FindSmallestWindowInStringWithAllCharsFromOtherString</b>
+<p>Given two strings string1 and string2, find the smallest substring in string1 containing all characters of string2 efficiently.
+For Example:
+
+Input :  string = "this is a test string"
+         pattern = "tist"
+Output :  Minimum window is "t stri"
+Explanation: "t stri" contains all the characters
+              of pattern.
+              </p>
+
